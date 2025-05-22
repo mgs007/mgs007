@@ -1,9 +1,30 @@
-### Hi there! 👋  
+# 👋 Hello, I'm Kelvin Pius (@mgs007)
 
-- 👋 Hi, I’m Kelvin Pius (@mgs007)
-- 👀 I’m interested in web crawling, social media automation, ChatBots and industrial process automation.  
-- 🌱 I’m currently learning KNX protocol programming and advanced automation techniques.  
-- 💞️ I’m looking to collaborate on Python-based automation projects, industrial process automation, and AI-driven marketing solutions.  
-- 📫 How to reach me: machinesensi@gmail.com  
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I enjoy creating intelligent bots that make work effortless! 🚀  
+🎯 About Me
+I’m a Python developer and automation engineer with hands-on experience in building intelligent systems for agriculture, finance, blockchain, and industrial process control. With a background in Computer Science and certifications in project management and digital marketing, I specialize in developing bots, automation tools, and integrated platforms that solve real-world problems.
+
+🚀 Current Focus Areas
+- Learning Node.js and blockchain smart contract development
+- Mastering   Advanced Python Skills
+- Enhancing smart systems for agriculture using satellite and remote sensing data  
+- Expanding automation tools for betting, social media, and crypto trading
+
+🤝Looking to Collaborate On
+- Python-based automation projects  
+- Blockchain automation and DeFi infrastructure  
+- AI-driven marketing and analytics solutions  
+- Industrial IoT and smart process control systems
+
+📂 Tech Stack & Tools
+- Python, Node.js, C++  
+- Automation: Telegram CLI, Social Media Bots, Web Crawlers  
+- Industrial: PLC Programming, Process Control
+- Data & Remote Sensing: NDVI, Satellite Data, GIS Integration  
+
+📫 Reach Me At
+Email: [machinesensi@gmail.com](mailto:machinesensi@gmail.com)
+
+🧠 Fun Fact
+I enjoy creating automation tools that solve complex problems—so people can focus on what truly matters!
+
+> _“Automate the routine. Focus on the extraordinary.”_

@@ -16,13 +16,13 @@ I’m a Python developer and automation engineer with hands-on experience in bui
 - Industrial IoT and smart process control systems
 
 📂 Tech Stack & Tools
-- Python, Node.js, C++  
+- Python, Node.js, javascript,C++  
 - Automation: Telegram CLI, Social Media Bots, Web Crawlers  
 - Industrial: PLC Programming, Process Control
 - Data & Remote Sensing: NDVI, Satellite Data, GIS Integration  
 
 📫 Reach Me At
-Email: [machinesensi@gmail.com](mailto:machinesensi@gmail.com)
+Email: [kelvinpius818@outlook.com](mailto:machinesensi@gmail.com)
 
 🧠 Fun Fact
 I enjoy creating automation tools that solve complex problems—so people can focus on what truly matters!

@@ -1,13 +1,13 @@
-# 👋 Hello, I'm Kelvin Pius (@mgs007)
+Hello, I'm Kelvin Pius
 
-🎯 About Me
-I’m a Python developer and automation engineer with hands-on experience in building intelligent systems for agriculture, finance, blockchain, and industrial process control. With a background in Computer Science and certifications in project management and digital marketing, I specialize in developing bots, automation tools, and integrated platforms that solve real-world problems.
+About Me
+I’m a Python developer and automation engineer with hands-on experience in building intelligent systems for agriculture, finance, blockchain, and industrial process control. With a background in Computer Science and certifications in project management and digital marketing, I specialize in AI Agents, Bots, automation tools, and integrated platforms that solve real-world problems.
 
 🚀 Current Focus Areas
-- Learning Node.js and blockchain smart contract development
+- Advanced AI Agents
+- Learning Node.js and TypeScript Programming languages
 - Mastering   Advanced Python Skills
-- Enhancing smart systems for agriculture using satellite and remote sensing data  
-- Expanding automation tools for betting, social media, and crypto trading
+- Enhancing smart systems with Advanced Technologies
 
 🤝Looking to Collaborate On
 - Python-based automation projects  
@@ -16,8 +16,8 @@ I’m a Python developer and automation engineer with hands-on experience in bui
 - Industrial IoT and smart process control systems
 
 📂 Tech Stack & Tools
-- Python, Node.js, javascript,C++  
-- Automation: Telegram CLI, Social Media Bots, Web Crawlers  
+- Python, Node.js, javascript,C++, Typescript
+- Automation: Social Media Bots, Web Crawlers 
 - Industrial: PLC Programming, Process Control
 - Data & Remote Sensing: NDVI, Satellite Data, GIS Integration  
 

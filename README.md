@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Kelvin Pius  
-**Python Developer | Automation Network Engineer | AI & Agritech Innovator**
+**Python Developer | Automation & Network Engineer | AI & Agritech Innovator**
 
 ---
 

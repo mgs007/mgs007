@@ -1,24 +1,32 @@
-Hello, I'm Kelvin Pius  
-Python Developer | Automation and Network Engineer | AI & Agritech Innovator
+# 👋 Hello, I'm Kelvin Pius  
+**Python Developer | Automation Network Engineer | AI & Agritech Innovator**
 
-About Me  
+---
+
+## 🧠 About Me  
 I’m a solution-driven developer with hands-on experience building intelligent systems for agriculture, finance, blockchain, and industrial process control. Backed by a BSc in Computer Science and certifications in project management and digital marketing, I specialize in developing AI Agents, automation tools, bots, and full-stack platforms that solve real-world challenges. I thrive in Linux environments, cloud-based infrastructure, and IP/MPLS networks, with a passion for resilient system design and strategic technology trends.
 
-Current Focus Areas  
+---
+
+## 🚀 Current Focus Areas  
 - Building advanced AI agents and automation ecosystems  
 - Mastering advanced Python and expanding into Node.js & TypeScript  
 - Integrating smart systems with cutting-edge technologies like Cloud & Big Data  
 - Exploring DeFi platforms and precision agriculture solutions  
 
-🤝 Looking to Collaborate On  
+---
+
+## 🤝 Looking to Collaborate On  
 - Python-based automation and trading bots  
 - Blockchain automation and decentralized infrastructure  
 - AI-driven analytics, marketing, and customer experience tools  
 - Smart process control and industrial IoT projects  
 - Cloud-native architectures and cybersecurity tools  
 
-📂 Tech Stack & Tools  
-Languages & Frameworks:
+---
+
+## 📂 Tech Stack & Tools  
+**Languages & Frameworks:**  
 - Python, Node.js, JavaScript, C++, TypeScript, Flask  
 
 **Automation:**  

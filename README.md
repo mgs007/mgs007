@@ -11,9 +11,4 @@ Hello, I'm Kelvin Pius<br>Full Stack Developer | Automation & Network Engineer |
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=mgs007&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mgs007&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mgs007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
